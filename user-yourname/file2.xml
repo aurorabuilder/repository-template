@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>File 2</name>
+		<update version="1.0.0">
+			<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		</update>
+	</info>
+	
+	<!-- place your elements here -->
+	
+</elements>
